@@ -16,7 +16,7 @@ lecture you are working on. No local setup required.
 
 | Lecture | Notebook |
 |---|---|
-| 2.1 — Setting Up Colab & Your API Key | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link) |
+| 2.1 — Setting Up Colab & Your API Key | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-2-your-first-agent/2.1-setting-up-colab-and-api-key.ipynb) |
 | 2.2 — Writing Your First query() Call | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link) |
 | 2.3 — Reading Agent Messages & the Result Stream | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link) |
 | 2.4 — Hands-On: Build a File Explorer Agent | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](link) |
