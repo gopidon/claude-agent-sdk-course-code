@@ -48,6 +48,20 @@ lecture you are working on. No local setup required.
 
 ---
 
+## Section 5 — Hooks: Controlling Agent Behavior
+
+| Lecture | Notebook |
+|---|---|
+| 5.1 — Hooks Deep Dive: Events & Architecture | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5-1-hooks-deep-dive-events-and-architecture.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 5.2 — PostToolUse: Logging Every Tool Call — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5.2-posttooluse-logging-tool-calls-starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 5.2 — PostToolUse: Logging Every Tool Call — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5.2-posttooluse-logging-tool-calls-solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 5.3 — PostToolUse: Changing Tool Output & Stopping a Run | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5.3-posttooluse-modifying-output-and-stopping-a-run.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 5.4 — UserPromptSubmit: Injecting Context | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5.4-userpromptsubmit-injecting-context.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 5.5 — Hands-On: Build an Agent with a File-Change Audit Log — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5.5-audit-log-agent-starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 5.5 — Hands-On: Build an Agent with a File-Change Audit Log — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-5-hooks/5.5-audit-log-agent-solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+---
+
 ## Requirements
 
 - A Google account — for Google Colab
