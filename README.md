@@ -118,7 +118,7 @@ https://platform.claude.com/docs/en/about-claude/models/overview
 
 ## Course Link
 
-Enroll in the course on Udemy: [Claude Agent SDK: Build Production AI Agents in Python](link)
+Enroll in the course on Udemy: [Claude Agent SDK: Build Production AI Agents in Python](https://www.udemy.com/course/claude-agent-sdk-build-production-ai-agents-in-python)
 
 ---
 
