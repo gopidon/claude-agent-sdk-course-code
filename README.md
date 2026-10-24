@@ -107,8 +107,9 @@ whole notebook uses the new model.
 
 Models are released regularly, so the course moves forward over time. Earlier
 sections use `claude-haiku-4-5`. The latest sections use the newest Haiku,
-`claude-haiku-5-5`. Both work, so you can run any notebook with either model.
-Outputs will differ slightly from the videos, which is normal for live agents.
+`claude-haiku-5-5`. Each notebook is tested with the model it sets, so keep
+that model to match the videos. You are free to change `MODEL_NAME` to
+experiment, but results, token counts and behavior can differ from the videos.
 
 For the latest available models visit:
 https://platform.claude.com/docs/en/about-claude/models/overview
