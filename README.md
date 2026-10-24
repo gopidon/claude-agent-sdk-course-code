@@ -62,6 +62,23 @@ lecture you are working on. No local setup required.
 
 ---
 
+## Section 6 — Sessions & Context Management
+
+| Lecture | Notebook |
+|---|---|
+| 6.1 — How Sessions Work: Transcripts on Your Filesystem | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_1_how_sessions_work_transcripts_on_your_filesystem.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.2 — Capturing & Resuming Session IDs — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_2_capturing_and_resuming_session_ids_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.2 — Capturing & Resuming Session IDs — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_2_capturing_and_resuming_session_ids_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.3 — Forking Sessions to Explore Different Approaches — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_3_forking_sessions_to_explore_different_approaches_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.3 — Forking Sessions to Explore Different Approaches — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_3_forking_sessions_to_explore_different_approaches_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.4 — File Checkpointing: Rewinding Your Agent's File Changes — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_4_file_checkpointing_rewinding_your_agents_file_changes_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.4 — File Checkpointing: Rewinding Your Agent's File Changes — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_4_file_checkpointing_rewinding_your_agents_file_changes_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.5 — Context Window Awareness & Cost Management | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_5_context_window_awareness_and_cost_management.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.6 — Hands-On: Multi-Turn Code Analysis Agent — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_6_hands_on_multi_turn_code_analysis_agent_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 6.6 — Hands-On: Multi-Turn Code Analysis Agent — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_6_hands_on_multi_turn_code_analysis_agent_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+---
+
 ## Requirements
 
 - A Google account — for Google Colab
@@ -84,9 +101,14 @@ Each notebook reads your API key from Colab Secrets:
 
 ## Model
 
-All notebooks use `claude-haiku-4-5` by default — the fastest and most
-cost-effective Claude model. You can change this by updating the
-`MODEL_NAME` variable at the top of any notebook.
+Notebooks use a small, fast Claude model by default, set in one place: the
+`MODEL_NAME` variable near the top of each notebook. Change it there and the
+whole notebook uses the new model.
+
+Models are released regularly, so the course moves forward over time. Earlier
+sections use `claude-haiku-4-5`. The latest sections use the newest Haiku,
+`claude-haiku-5-5`. Both work, so you can run any notebook with either model.
+Outputs will differ slightly from the videos, which is normal for live agents.
 
 For the latest available models visit:
 https://platform.claude.com/docs/en/about-claude/models/overview
