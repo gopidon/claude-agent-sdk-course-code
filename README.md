@@ -78,14 +78,15 @@ lecture you are working on. No local setup required.
 | 6.6 — Hands-On: Multi-Turn Code Analysis Agent — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-6-sessions-and-context/6_6_hands_on_multi_turn_code_analysis_agent_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ---
+
 ## Section 7 — Subagents: Delegation & Multi-Agent Workflows
 
 | Lecture | Notebook |
 |---|---|
-| 7.2 — Your First Subagent | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7.2-your-first-subagent.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| 7.3 — Defining Custom Agents with AgentDefinition — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7.3-defining-custom-agents-with-agentdefinition-starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| 7.3 — Defining Custom Agents with AgentDefinition — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7.3-defining-custom-agents-with-agentdefinition-solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| 7.4 — Tracking Subagent Activity | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7.4-tracking-subagent-activity.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 7.2 — Your First Subagent | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_2_your_first_subagent.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 7.3 — Defining Custom Agents with AgentDefinition — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_3_defining_custom_agents_with_agentdefinition_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 7.3 — Defining Custom Agents with AgentDefinition — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_3_defining_custom_agents_with_agentdefinition_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 7.4 — Tracking Subagent Activity | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_4_tracking_subagent_activity.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ---
 
