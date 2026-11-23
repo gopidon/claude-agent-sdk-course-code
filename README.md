@@ -89,6 +89,7 @@ lecture you are working on. No local setup required.
 | 7.4 — Tracking Subagent Activity | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_4_tracking_subagent_activity.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | 7.5 — Orchestrating Multi-Agent Pipelines — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_5_orchestrating_multi_agent_pipelines_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | 7.5 — Orchestrating Multi-Agent Pipelines — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_5_orchestrating_multi_agent_pipelines_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 7.6 — Subagent Limits, Hooks & Cost | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-7-subagents/7_6_subagent_limits_hooks_and_cost.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ---
 
