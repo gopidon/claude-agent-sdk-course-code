@@ -95,6 +95,15 @@ lecture you are working on. No local setup required.
 
 ---
 
+## Section 8 — MCP: Connecting External Systems
+
+| Lecture | Notebook |
+|---|---|
+| 8.2 — Your First Custom Tool — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_2_your_first_custom_tool_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 8.2 — Your First Custom Tool — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_2_your_first_custom_tool_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+
+---
+
 ## Requirements
 
 - A Google account — for Google Colab
