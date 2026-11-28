@@ -103,6 +103,8 @@ lecture you are working on. No local setup required.
 | 8.2 — Your First Custom Tool — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_2_your_first_custom_tool_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | 8.3 — Custom Tools with Real Data — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_3_custom_tools_with_real_data_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | 8.3 — Custom Tools with Real Data — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_3_custom_tools_with_real_data_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 8.4 — Connecting a Local MCP Server (stdio) — **Starter** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_4_connecting_a_local_mcp_server_starter.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| 8.4 — Connecting a Local MCP Server (stdio) — **Solution** | <a href="https://colab.research.google.com/github/gopidon/claude-agent-sdk-course-code/blob/main/section-8-mcp/8_4_connecting_a_local_mcp_server_solution.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 
 ---
 
